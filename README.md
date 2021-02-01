@@ -1,3 +1,3 @@
-# Assembly-Giris
+# Education-Documentation
 
 Araştırma ve ödevlerim.
