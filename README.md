@@ -1,3 +1,3 @@
 # Education-Documentation
 
-Araştırma ve ödevlerim.
+Araştırma ve notlarım.
